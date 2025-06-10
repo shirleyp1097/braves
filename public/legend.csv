@@ -1,0 +1,13 @@
+﻿BATTER_ID,The batter's MLBAM ID
+BATTER,The batter's name
+PITCHER_ID,The pitcher's MLBAM ID
+PITCHER,The pitcher's name
+GAME_DATE,The date of the game
+LAUNCH_ANGLE,The vertical angle at which the ball leaves the bat (0 is parallel to the ground)
+EXIT_VELO,The velocity at which the ball leaves the bat
+EXIT_DIRECTION,"The horizontal angle at which the ball leaves the bat (-45 is the 3B line, 45 is the 1B line)"
+HIT_DISTANCE,The distance that the ball travels
+HANG_TIME,The time duration that the ball remains in the air
+HIT_SPIN_RATE,The spin rate at which the ball leaves the bat
+PLAY_OUTCOME,The result of the play
+VIDEO_LINK,A url containing video of the play

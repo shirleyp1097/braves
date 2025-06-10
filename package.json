@@ -1,5 +1,5 @@
 {
-  "name": "baseball_stats",
+  "name": "baseball-stats-viewer",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -11,7 +11,6 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "@vueuse/core": "^13.3.0",
     "papaparse": "^5.5.3",
     "vue": "^3.5.13"
   },
