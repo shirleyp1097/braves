@@ -11,14 +11,7 @@ import BaseballTable from './components/BaseballTable.vue'
   </main>
 </template>
 
-<style>
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
-    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  background-color: #f5f5f5;
-}
-
+<style scoped>
 header {
   background-color: #1a237e;
   color: white;
